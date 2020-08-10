@@ -7721,11 +7721,6 @@ section.bg-grey {
 
 .wow {
     visibility: hidden;
-    height: 20rem;
-
-    @media(max-width: 350px;){
-        height: auto;
-    }
 }
 
 #back-to-top {
